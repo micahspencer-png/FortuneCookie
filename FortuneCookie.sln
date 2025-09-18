@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneCookie", "FortuneCookie\FortuneCookie.csproj", "{F7023F7E-AFC9-4678-916A-89E2E8EAC858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7023F7E-AFC9-4678-916A-89E2E8EAC858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7023F7E-AFC9-4678-916A-89E2E8EAC858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7023F7E-AFC9-4678-916A-89E2E8EAC858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7023F7E-AFC9-4678-916A-89E2E8EAC858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C188F4-9CD0-4A7D-BE88-EE3A446C87CD}
+	EndGlobalSection
+EndGlobal
